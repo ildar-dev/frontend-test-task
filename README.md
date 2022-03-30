@@ -1,4 +1,4 @@
-[Look at me](https://ildardavletyarov.github.io/frontend-test-task/)
+[Look at me](https://ildar-dev.github.io/frontend-test-task/)
 
 
 ### **Easy**
